@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MineSweeper</string>
+    <string name="action_settings">Settings</string>
+	<string-array name="tabs">
+		<item>Beginner</item>
+		<item>Intermediate</item>
+		<item>Expert</item>
+	</string-array>
+</resources>

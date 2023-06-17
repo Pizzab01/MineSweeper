@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:paddingTop="10dp">
+        <TableLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tableLayout2"
+            android:layout_alignParentLeft="true"/>
+        <ImageView
+            android:layout_width="46dp"
+            android:layout_height="46dp"
+            android:background="@drawable/smile"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/smileiv"/>
+        <ImageView
+            android:layout_width="26dp"
+            android:layout_height="46dp"
+            android:background="@drawable/timer0"
+            android:layout_alignParentRight="true"
+            android:id="@+id/rightiv"/>
+        <ImageView
+            android:layout_width="26dp"
+            android:layout_height="46dp"
+            android:background="@drawable/timer0"
+            android:layout_toLeftOf="@id/rightiv"
+            android:id="@+id/middleiv"/>
+        <ImageView
+            android:layout_width="26dp"
+            android:layout_height="46dp"
+            android:background="@drawable/timer0"
+            android:layout_toLeftOf="@id/middleiv"
+            android:id="@+id/leftiv"/>
+
+        <TableLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tableLayout1"
+            android:layout_below="@id/smileiv"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+        
+        />
+</RelativeLayout>
+
+
+
+
+

@@ -1,0 +1,9 @@
+<map id="MineSweeper.Game" name="MineSweeper.Game">
+<area shape="rect" id="Node000001" title=" " alt="" coords="100,80,238,107"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,69,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,37,147,77,145,82,72,42"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="93,5,245,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="172,47,172,80,166,80,166,47"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="270,5,450,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="314,40,203,82,202,77,312,35"/>
+</map>

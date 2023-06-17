@@ -1,0 +1,7 @@
+<map id="MineSweeper.MyScaleListener" name="MineSweeper.MyScaleListener">
+<area shape="rect" id="Node000001" title=" " alt="" coords="57,96,258,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,13,134,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,48,146,94,142,98,92,52"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="158,5,333,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,60,173,97,170,93,211,56"/>
+</map>

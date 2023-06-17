@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/background"
+    android:backgroundTintMode="add"
+    android:backgroundTint="@color/material_blue_grey_800"
+    >
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_marginHorizontal="10dp"
+            android:layout_height="75dp"
+            android:layout_gravity="center"
+            android:hint="Beginner"
+            android:textSize="30dp"
+            android:id="@+id/button1"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_marginHorizontal="10dp"
+            android:layout_height="75dp"
+            android:layout_gravity="center"
+            android:hint="Intermediate"
+            android:textSize="30dp"
+            android:id="@+id/button2"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_marginHorizontal="10dp"
+            android:layout_height="75dp"
+            android:layout_gravity="center"
+            android:hint="Expert"
+            android:textSize="30dp"
+            android:id="@+id/button3"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_marginHorizontal="10dp"
+            android:layout_height="75dp"
+            android:layout_gravity="center"
+            android:hint="High Score"
+            android:textSize="30dp"
+            android:id="@+id/button4"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_marginHorizontal="10dp"
+            android:layout_height="75dp"
+            android:layout_gravity="center"
+            android:hint="Custom"
+            android:textSize="30dp"
+            android:id="@+id/button5"/>
+
+        <EditText
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:hint="Width"
+            android:textAlignment="center"
+            android:id="@+id/editText1"/>
+
+        <EditText
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:hint="Height"
+            android:textAlignment="center"
+            android:id="@+id/editText2"/>
+
+        <EditText
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:hint="Mines"
+            android:textAlignment="center"
+            android:id="@+id/editText3"/>
+</LinearLayout>
