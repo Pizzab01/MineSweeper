@@ -1,7 +1,0 @@
-<map id="MineSweeper.BeginnerFragment" name="MineSweeper.BeginnerFragment">
-<area shape="rect" id="Node000001" title=" " alt="" coords="15,96,224,123"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,13,82,40"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,49,110,94,106,98,63,53"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="105,5,286,48"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="168,61,133,97,129,94,164,57"/>
-</map>

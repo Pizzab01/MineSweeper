@@ -1,7 +1,0 @@
-<map id="MineSweeper.IntermediateFragment" name="MineSweeper.IntermediateFragment">
-<area shape="rect" id="Node000001" title=" " alt="" coords="32,96,207,139"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,13,82,40"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="66,50,104,94,100,97,62,53"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="105,5,286,48"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="170,61,139,97,135,94,166,58"/>
-</map>
